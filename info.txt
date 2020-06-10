@@ -2,7 +2,7 @@
 
 int someFunction(){
 
-	return 10;
+	return 100;
 
 }
 
