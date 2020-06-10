@@ -2,11 +2,6 @@
 
 int someFunction(){
 
-<<<<<<< HEAD
-	return 100;
-=======
-	return 10;
->>>>>>> master
-
+	return 1000;
 }
 
