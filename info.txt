@@ -2,6 +2,6 @@
 
 int someFunction(){
 
-	return 10000;
+	return 100000;
 }
 
